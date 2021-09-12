@@ -2,6 +2,10 @@
 
 This is to make mujoco-py 1.5 work with the nvidia driver.
 
+## References:
+
+- http://www.mujoco.org/book/programming.html#inOpenGL
+
 ## Steps:
 
 - Nvidia driver is installed with the official CentOS repo
